@@ -16,8 +16,12 @@ public class FirstClass {
 	   I will conflict my remote master branch
 
 	   hey guys this is our remote master branch
+
 	   Here is serios conflict
 	   ther os the last part of last conflict
+
+	   here is another cinflicting line on master branch
+
 
 		 */
 

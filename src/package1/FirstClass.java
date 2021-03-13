@@ -16,6 +16,7 @@ public class FirstClass {
 	   I will conflict my remote master branch
 
 	   hey guys this is our remote master branch
+	   here is another cinflicting line on master branch
 
 		 */
 

@@ -11,6 +11,8 @@ public class FirstClass {
            git push -u origin master (or main)
            
            ibrahim local branch makes changes
+	   here is  the conflicting line
+	   I will conflict my remote master branch
 		 */
 
 	}
